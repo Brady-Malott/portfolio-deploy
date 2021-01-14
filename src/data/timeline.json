@@ -1,0 +1,47 @@
+[
+	{
+		"title": "My Birthday!",
+		"date": "June 14, 2001",
+		"body": "Where the story begins..."
+	},
+	{
+		"title": "First CS class",
+		"date": "September 2017 - January 2018",
+		"body": "In grade 11, I took my first CS class. I learned the fundamentals of Java and a little bit of object oriented programming, and I got to practice these skills by making 2D games with LibGDX."
+	},
+	{
+		"title": "Secondary School Programming Competition",
+		"date": "December 2018",
+		"body": "Two of my friends and I placed 6th in the University of Windsor's secondary school programming competition, granting us each a $500 scholarship"
+	},
+	{
+		"title": "Airfighter Project",
+		"date": "May 2019 - June 2019",
+		"body": "My airfighter game project was the last project I made in high school, and is what sparked my love for programming. While I was working on this project, I decided to pursue a computer science degree."
+	},
+	{
+		"title": "Start of University",
+		"date": "September 2019",
+		"body": "I began studying computer science at the University of Windsor."
+	},
+	{
+		"title": "Advanced to ICPC Regionals",
+		"date": "October 2019",
+		"body": "My team placed second in the ICPC local qualifier at the University of Windsor and advanced to the Regional competition."
+	},
+	{
+		"title": "Volunteer CS Teaching Assistant",
+		"date": "October 2019 – December 2019",
+		"body": "During my first semester of university I volunteered as a teaching assistant for my high school computer science teacher."
+	},
+	{
+		"title": "Dean's List and President's honour roll",
+		"date": "April 2020",
+		"body": "I ended off my first year with a 93.8% cumulative average and a 95.7% major average, and received the Dean's List honour roll and President's honour roll"
+	},
+	{
+		"title": "BorderHacks",
+		"date": "September 2020",
+		"body": "I worked in a team of three to develop the CovidWallet app, listed in the projects view. This event sparked my interest to join more hackathons in the future."
+	}
+]

@@ -1,0 +1,87 @@
+[
+	{
+		"title": "Portfolio Site",
+		"imgURL": "portfolio.png",
+		"technologies": ["React", "Javascript", "HTML", "CSS"],
+		"finishDate": "December 30, 2020",
+		"description": "This website is a single page web app built with React. It utilizes React CSS Transition Group for page transitions and the context api for managing app level state. It reads in project and timeline item info from JSON files. It utilizes a library called react-vertical-timeline for the timeline component, and the rest of the CSS is custom. This was my first React project that was completed individually, which helped me to fill in any gaps in my understanding of React."
+	},
+	{
+		"title": "Contact Keeper",
+		"imgURL": "contact_keeper.png",
+		"technologies": [
+			"MongoDB",
+			"Express",
+			"React",
+			"NodeJS",
+			"Javascript",
+			"HTML",
+			"CSS"
+		],
+		"finishDate": "October 12, 2020",
+		"description": "A single page CRUD web app for storing contacts that was built with the MERN stack as part of a Udemy course. It features JWT user authentication, use of the context API, and an API using express routes. The API is used for registering users, user authentication, and CRUD operations on a user's contacts. This project furthered my knowledge of React, and also introduced me to a tech stack that I haven't used before."
+	},
+	{
+		"title": "Github Finder",
+		"imgURL": "github_finder.png",
+		"technologies": ["React", "Javascript", "HTML", "CSS"],
+		"finishDate": "October 6, 2020",
+		"description": "A single page web app where users can search for github users and display their profile info, such as their bio, avatar, and repositories. It utilizes react-router-dom to display different components for each endpoint. Since the component hierarchy has several layers, the app uses the Context API to manage app-level state to avoid \"prop drilling\". This project furthered my knowledge of React, and was completed as part of a Udemy course."
+	},
+	{
+		"title": "Covid Wallet",
+		"imgURL": "covid_wallet.png",
+		"technologies": [
+			"React",
+			"Firebase",
+			"Material-UI",
+			"Javascript",
+			"HTML",
+			"CSS"
+		],
+		"finishDate": "September 27, 2020",
+		"description": "A hackathon project created at BorderHacks. The web app lets users securely sign in using Google OAuth, fill in their information and survey details about their history with COVID-19, and generate a certificate with a unique certificate id. Users can also query existing certificates to verify another individuals' certificate, status and demographic information. This project was my first time using React and Firebase, and I learned a lot from creating this app."
+	},
+	{
+		"title": "Javascript Snake",
+		"imgURL": "snake.png",
+		"technologies": ["Javascript", "HTML", "CSS"],
+		"finishDate": "August 19, 2020",
+		"description": "Classic snake game created with vanilla Javascript, HTML, and CSS. It uses setInterval() to create a game loop, and is terminated on lose conditions by a clearInterval() call. I created this for fun to develop my Javascript skills, and it is not deployed."
+	},
+	{
+		"title": "Browser Pictochat",
+		"imgURL": "pictochat.png",
+		"technologies": [
+			"NodeJS",
+			"Express",
+			"Socket.io",
+			"Javascript",
+			"HTML",
+			"CSS"
+		],
+		"finishDate": "August 9, 2020",
+		"description": "Recreation of pictochat for the web browser. Users can draw and type on the HTML canvas, and can select between pencil/eraser and large/small tip. It also features a chat log that users can navigate using two buttons, along with the option to copy a message from the log to the drawing canvas. Uses websockets to distribute messages to all users in the chat room. I created this for fun to experiment with sockets and HTML canvas, and have not deployed it yet."
+	},
+	{
+		"title": "Algorithms Visualizer",
+		"imgURL": "algorithms_visualizer.png",
+		"technologies": ["Javascript", "HTML", "CSS"],
+		"finishDate": "August 7, 2020",
+		"description": "A visualizer for maze generation, array searching, and array sorting algorithms, such as Wilson’s Algorithm and Merge Sort. It uses setTimeout() to implement an asynchronous queue system for visual events. The sidebar menu is clean and intuitive, and uses on-hover dropdown menus to switch settings such as array/maze size, highlight colour, and the algorithm to be used. This project helped me develop a strong understanding of vanilla Javascript, HTML, and CSS, as well as some familiarity with asynchronous Javascript."
+	},
+	{
+		"title": "Sudoku",
+		"imgURL": "sudoku.png",
+		"technologies": ["Java", "LibGDX"],
+		"finishDate": "May 10, 2020",
+		"description": "A sudoku game developed with LibGDX and Java. There are 4 difficulties that determine how many numbers are shown at the start. The player can input numbers or number markers into each square, and a loss occurs when there are three incorrect numbers inputted. It features a board generator that generates a random valid sudoku board, a sudoku solver that solves the board using a recursive backtracking algorithm, and a highscores file that updates after each game to display the top 10 solve times. This is likely the last LibGDX game I will make for a while, since my interest is now in web development."
+	},
+	{
+		"title": "Airfighter Game",
+		"imgURL": "airfighter.png",
+		"technologies": ["Java", "LibGDX"],
+		"finishDate": "June 20, 2019",
+		"description": "A top-down airfighter game based on the arcade game Raiden. It was developed with LibGDX and Java for my grade 12 computer science final project. It features tilemap level backgrounds built with tiled, polynomial hit detection, and several different enemies. It uses many principles of object oriented programming, such as inheritance, polymorphism, abstract classes, and interfaces. This project provided me with a strong understanding of object oriented programming in Java, and is the reason I decided to pursue coding."
+	}
+]
