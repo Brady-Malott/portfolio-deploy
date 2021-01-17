@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.19389f77.chunk.css",
-    "main.js": "/static/js/main.170e2c14.chunk.js",
-    "main.js.map": "/static/js/main.170e2c14.chunk.js.map",
+    "main.js": "/static/js/main.2018243b.chunk.js",
+    "main.js.map": "/static/js/main.2018243b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f69df24d.js",
     "runtime-main.js.map": "/static/js/runtime-main.f69df24d.js.map",
     "static/css/2.2aa38b9c.chunk.css": "/static/css/2.2aa38b9c.chunk.css",
@@ -19,7 +19,7 @@
     "static/media/gear.png": "/static/media/gear.e8935cc6.png",
     "static/media/App.css": "/static/media/hero.b5f17092.jpg",
     "static/media/pictochat.png": "/static/media/pictochat.2a85a458.png",
-    "static/media/portrait.png": "/static/media/portrait.dcfa7535.png",
+    "static/media/portrait.png": "/static/media/portrait.c0966f63.png",
     "static/media/snake.png": "/static/media/snake.cd85fa9f.png",
     "static/media/sudoku.png": "/static/media/sudoku.f14acd80.png"
   },
@@ -28,6 +28,6 @@
     "static/css/2.2aa38b9c.chunk.css",
     "static/js/2.460b596d.chunk.js",
     "static/css/main.19389f77.chunk.css",
-    "static/js/main.170e2c14.chunk.js"
+    "static/js/main.2018243b.chunk.js"
   ]
 }
